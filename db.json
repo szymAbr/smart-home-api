@@ -2,7 +2,7 @@
   "devices": [
     {
       "type": "bulb",
-      "id": "1",
+      "id": "0",
       "name": "bedroom-main",
       "connectionState": "connected",
       "isTurnedOn": "false",
@@ -11,7 +11,7 @@
     },
     {
       "type": "bulb",
-      "id": "2",
+      "id": "1",
       "name": "bathroom-main",
       "connectionState": "poorConnection",
       "isTurnedOn": "false",
@@ -20,7 +20,7 @@
     },
     {
       "type": "bulb",
-      "id": "3",
+      "id": "2",
       "name": "living-room-main",
       "connectionState": "connected",
       "isTurnedOn": "true",
@@ -29,7 +29,7 @@
     },
     {
       "type": "outlet",
-      "id": "4",
+      "id": "3",
       "name": "computer-outlet",
       "connectionState": "connected",
       "isTurnedOn": "true",
@@ -37,7 +37,7 @@
     },
     {
       "type": "outlet",
-      "id": "5",
+      "id": "4",
       "name": "AC-outlet",
       "connectionState": "disconnected",
       "isTurnedOn": "false",
@@ -45,7 +45,7 @@
     },
     {
       "type": "outlet",
-      "id": "6",
+      "id": "5",
       "name": "TV-outlet",
       "connectionState": "connected",
       "isTurnedOn": "true",
@@ -53,21 +53,21 @@
     },
     {
       "type": "temperatureSensor",
-      "id": "7",
+      "id": "6",
       "name": "bedroom-main",
       "connectionState": "connected",
       "temperature": "19"
     },
     {
       "type": "temperatureSensor",
-      "id": "8",
+      "id": "7",
       "name": "bathroom-main",
       "connectionState": "disconnected",
       "temperature": "20"
     },
     {
       "type": "temperatureSensor",
-      "id": "9",
+      "id": "8",
       "name": "living-room-main",
       "connectionState": "connected",
       "temperature": "21"
