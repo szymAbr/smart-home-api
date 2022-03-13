@@ -5,8 +5,8 @@
       "id": "0",
       "name": "bedroom-main",
       "connectionState": "connected",
-      "isTurnedOn": "false",
-      "brightness": "0",
+      "isTurnedOn": false,
+      "brightness": 0,
       "color": "#ffffb3"
     },
     {
@@ -14,8 +14,8 @@
       "id": "1",
       "name": "bathroom-main",
       "connectionState": "poorConnection",
-      "isTurnedOn": "false",
-      "brightness": "0",
+      "isTurnedOn": false,
+      "brightness": 0,
       "color": "#ffffe6"
     },
     {
@@ -23,8 +23,8 @@
       "id": "2",
       "name": "living-room-main",
       "connectionState": "connected",
-      "isTurnedOn": "true",
-      "brightness": "75",
+      "isTurnedOn": true,
+      "brightness": 75,
       "color": "#ffffb3"
     },
     {
@@ -32,45 +32,45 @@
       "id": "3",
       "name": "computer-outlet",
       "connectionState": "connected",
-      "isTurnedOn": "true",
-      "powerConsumption": "140"
+      "isTurnedOn": true,
+      "powerConsumption": 140
     },
     {
       "type": "outlet",
       "id": "4",
       "name": "AC-outlet",
       "connectionState": "disconnected",
-      "isTurnedOn": "false",
-      "powerConsumption": "0"
+      "isTurnedOn": false,
+      "powerConsumption": 0
     },
     {
       "type": "outlet",
       "id": "5",
       "name": "TV-outlet",
       "connectionState": "connected",
-      "isTurnedOn": "true",
-      "powerConsumption": "200"
+      "isTurnedOn": true,
+      "powerConsumption": 200
     },
     {
       "type": "temperatureSensor",
       "id": "6",
       "name": "bedroom-main",
       "connectionState": "connected",
-      "temperature": "19"
+      "temperature": 19
     },
     {
       "type": "temperatureSensor",
       "id": "7",
       "name": "bathroom-main",
       "connectionState": "disconnected",
-      "temperature": "20"
+      "temperature": 20
     },
     {
       "type": "temperatureSensor",
       "id": "8",
       "name": "living-room-main",
       "connectionState": "connected",
-      "temperature": "21"
+      "temperature": 21
     }
   ]
 }
