@@ -7,7 +7,7 @@
       "connectionState": "connected",
       "isTurnedOn": false,
       "brightness": 0,
-      "color": "#ffffb3"
+      "color": "#ffe23c"
     },
     {
       "type": "bulb",
@@ -16,7 +16,7 @@
       "connectionState": "poorConnection",
       "isTurnedOn": false,
       "brightness": 0,
-      "color": "#ffffe6"
+      "color": "#82fbff"
     },
     {
       "type": "bulb",
@@ -25,7 +25,7 @@
       "connectionState": "connected",
       "isTurnedOn": true,
       "brightness": 75,
-      "color": "#ffffb3"
+      "color": "#ffe23c"
     },
     {
       "type": "outlet",
