@@ -39,7 +39,7 @@
       "type": "outlet",
       "id": "4",
       "name": "AC-outlet",
-      "connectionState": "disconnected",
+      "connectionState": "poorConnection",
       "isTurnedOn": false,
       "powerConsumption": 0
     },
@@ -62,7 +62,7 @@
       "type": "temperatureSensor",
       "id": "7",
       "name": "bathroom-main",
-      "connectionState": "disconnected",
+      "connectionState": "poorConnection",
       "temperature": 20
     },
     {
